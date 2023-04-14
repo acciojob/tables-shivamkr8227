@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.hea{
+	background-color:black;
+	color:white;
+}
+.foo-val{
+	font-weight:900;
+	text-align:center;
+}
